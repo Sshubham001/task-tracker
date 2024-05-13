@@ -1,4 +1,4 @@
-# To-Do List Application(https://sshubham001.github.io/task-tracker/)
+# [To-Do List Application](https://sshubham001.github.io/task-tracker/)
 
 This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add tasks with titles and descriptions, and also delete tasks individually.
 
